@@ -1,0 +1,108 @@
+body {
+  background: linear-gradient(70deg, lightgreen, white);
+}
+
+.cup {
+  background-color: #f5dfdc;
+  font-size: 20px;
+  margin: 0px 20px 0px 10px;
+  border-radius: 15%;
+  border-color: #f5dfdc;
+}
+
+.container {
+  width: 100%;
+  height: 450px;
+  position: relative;
+  margin: 0px 0px 80px 0px;
+}
+
+.circle {
+  background-color: antiquewhite;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+}
+
+.image {
+  position: absolute;
+  top: 10%;
+  left: 20%;
+}
+
+.images {
+  border-radius: 2%;
+}
+
+.title {
+  position: absolute;
+  left: 75%;
+  top: 25%;
+  font-family: Pacifico;
+}
+
+.hOne {
+  font-size: 50px;
+  color: #0ced73;
+  text-shadow: 2px 2px 2px black;
+}
+
+.con {
+  display: grid;
+  grid-template-columns: 60% 40%;
+  margin: 0px 75px 100px 75px;
+}
+
+.box {
+  border-bottom: none;
+  height: 2500px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.first {
+  padding: 30px 30px 0px 30px;
+  font-size: 22px;
+}
+
+.second {
+  padding: 30px 30px 0px 30px;
+}
+
+.qbox {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+
+.quoBox {
+  width: 500px;
+}
+
+.quote {
+  font-size: 35px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.kursiv {
+  font-size: 28px;
+  color: slategray;
+}
+
+.kurBox {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+
+.mainWords {
+  padding-left: 30px;
+  text-align: center;
+}
+
+.cards {
+  margin: 50px 0px 0px 30px;
+}
